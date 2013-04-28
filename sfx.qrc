@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sfx/fire.wav</file>
+        <file>sfx/hit.wav</file>
+        <file>sfx/music.mp3</file>
+    </qresource>
+</RCC>

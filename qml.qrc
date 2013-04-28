@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Button.qml</file>
+        <file>qml/CheckBox.qml</file>
+        <file>qml/GameMP.qml</file>
+        <file>qml/GamePanel.qml</file>
+        <file>qml/GameSP.qml</file>
+        <file>qml/LBullet.qml</file>
+        <file>qml/LineEdit.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/Menu.qml</file>
+        <file>qml/MenuNewGame.qml</file>
+        <file>qml/MenuSettings.qml</file>
+        <file>qml/PButton.qml</file>
+        <file>qml/RBullet.qml</file>
+        <file>qml/Score.qml</file>
+    </qresource>
+</RCC>
